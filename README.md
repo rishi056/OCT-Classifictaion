@@ -11,6 +11,6 @@ CNV (Choroidal neovascularization is the growth of abnormal blood vessels beneat
 
 Normal
 
-![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/55e89680-296f-46cc-b7db-2f6b507bfbc2)
-![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/057aea89-8b5a-42b9-8bad-5939f0d27a41)
-![image](https://github.com/AnilpreetSingh/OCT-classification/assets/90110629/5e6e1c45-6c4f-442c-9e3e-d467cab37a2c)
+![image](https://github.com/rishi056/OCT-Classifictaion/assets/111279699/23fb5063-c22a-45e5-a2ab-32e32e24d9db)
+![image2](https://github.com/rishi056/OCT-Classifictaion/assets/111279699/e63a15bd-fa15-4409-b516-badca35b1352)
+![image3](https://github.com/rishi056/OCT-Classifictaion/assets/111279699/e9d3ac44-49b5-4af1-af99-d4c01b2d9e1d)
